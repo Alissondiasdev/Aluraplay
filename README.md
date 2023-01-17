@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Flexbox e layouts responsivos**
 | :label: Tecnologias |  html,css
-| :rocket: URL         | 
+| :rocket: URL         | https://alissondiasdev.github.io/Aluraplay/
 | :fire: Curso     | https://cursos.alura.com.br/course/css-flexbox-layouts-responsivos
 
 
