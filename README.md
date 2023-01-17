@@ -10,8 +10,6 @@
 
 ## Detalhes do projeto
 
-Neste projeto chamado AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elementos. Esse projeto possui três telas principais, para celulares, tablets e desktops.
-
 Começaremos analisando a tela para celulares, que possui um cabeçalho com logo e ícones. Abaixo desse cabeçalho, teremos uma seção com várias opções de navegação no site.
 
 ![69289526-41b5-43de-87ba-b1f494d92fe8](https://user-images.githubusercontent.com/84820359/212966345-66f1e46c-65ab-4381-b06f-eff0c517353e.png#vitrinedev)
